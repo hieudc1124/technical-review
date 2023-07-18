@@ -1,0 +1,5 @@
+1) Create console 
+dotnet new console --framework net7.0
+
+2) run application
+dotnet run
